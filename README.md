@@ -187,6 +187,7 @@
  :free::moneybag: | :globe_with_meridians: | [API سرویس IaaS ابر آروان](https://www.arvancloud.ir/api/iaas/1.0) | خدمات رایانش ابری ابر آروان
  :moneybag: | :globe_with_meridians: | [API پارسا اسپیس](http://api.parsaspace.com/) | سرویس فایل هاستینگ
  :question: | :globe_with_meridians: | [API ذرت](http://filecorn.api-docs.io/) | سرویس فضای ابری اختصاصی
+ :free::moneybag: | :globe_with_meridians: | [API پارس پک](https://docs.parspack.com/reference/instructions/) | سرویس سرور ابری، گواهینامه SSL و CDN پارس پک
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
