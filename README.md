@@ -189,7 +189,7 @@
  :question: | :globe_with_meridians: | [API ذرت](http://filecorn.api-docs.io/) | سرویس فضای ابری اختصاصی
  :free::moneybag: | :globe_with_meridians: | [API پارس پک](https://docs.parspack.com/reference/instructions/) | سرویس سرور ابری، گواهینامه SSL و CDN پارس پک
  :moneybag: | :globe_with_meridians: | [API چابکان](https://docs.chabokan.net/openapi) | زیرساخت ابری شامل سرویس‌های متنوع مانند PaaS, IaaS, DbaaS
-
+ :free::moneybag: | :globe_with_meridians: | [API فایلز](https://my.files.ir/api-docs) | سرویس فضای ابری فایلز به همراه پلن رایگان
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
