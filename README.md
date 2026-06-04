@@ -72,6 +72,7 @@
 :moneybag: | :globe_with_meridians: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ...
 :moneybag: | :globe_with_meridians: | [API میکائو](https://mikaeo.ir/api-sales) | دریافت اخبار مختلف براساس دسته‌بندی، خبرگزاری با امکان جستجو
 :free: | :globe_with_meridians: | [API دیوار](https://divar.ir/kenar/) | آگهی و نیازمندی های سایت دیوار
+:moneybag: | :globe_with_meridians: | [API فراگستر](https://api.faragostar.net/) | APIهای اتوماسیون کسب و کار فراگستر شامل ایجاد مکاتبات و اسناد، دریافت اطلاعات و سرویس‌های اطلاع‌رسانی
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -150,7 +151,6 @@
 :free: | :globe_with_meridians: | [API ژاکت](https://zhaket.github.io/guard/)              | سرویس تعریف لایسنس برای ابزارهای وردپرسی
 :moneybag: | :globe_with_meridians: | [API ChatGPT](https://one-api.ir/api-chatgpt)            | سرویس ساخت ربات ChatGPT هوش مصنوعی
 :question: | :globe_with_meridians: | [API آرکپچا](https://docs.arcaptcha.co/fa/installation/) | سرویس محافظت در برابر بات‌ها و هرزنامه‌ها و آسیب‌های خودکار 
-
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## حاکمیتی
