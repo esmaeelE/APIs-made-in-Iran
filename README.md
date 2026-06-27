@@ -159,6 +159,8 @@
 :question: | :iran: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
 :question: | :iran: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
 :free: | :iran: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API <!-- markdown-link-check-disable-line -->
+:question: | :iran: | [مرکز ملی تبادل اطلاعات NIX](https://ito.gov.ir/nix) | مجموعه بیش از ۵۳۰۰ خدمت الکترونیک در مرکز ملی تبادل اطلاعات <!-- markdown-link-check-disable-line -->
+
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
